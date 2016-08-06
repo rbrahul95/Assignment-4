@@ -1,4 +1,37 @@
+
+Expected Output : 
 25
 -3
 30
 0
+
+Code : 
+
+public class Problem4 {
+	public static void main(String []args){	
+		
+	
+		//Problem 3
+		 int x=5,y=10;
+                  int a = x + y * 2;
+                  int b = x - y + 2;
+                  int c = (x+y) * 2;
+                  int d = y % x;
+
+		
+		
+	    System.out.println(""+a+"\n"+b+"\n"+c+"\n"+d);
+						
+	}
+
+}
+
+OUTPUT : 
+25
+-3
+30
+0
+
+
+
+
