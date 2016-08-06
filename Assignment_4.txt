@@ -1,12 +1,12 @@
-
+/*
 Expected Output : 
 25
 -3
 30
 0
+*/
 
-Code : 
-
+//Code : 
 public class Problem4 {
 	public static void main(String []args){	
 		
@@ -24,7 +24,7 @@ public class Problem4 {
 
 }
 
-OUTPUT : 
+//OUTPUT : 
 25
 -3
 30
